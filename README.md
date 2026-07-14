@@ -1,10 +1,24 @@
 # Geo-IP-Tracker
-A Simple To Deploy Geo Location IP Tracker which can be used to track criminals etc..
+A simple, easy to deploy Geo Location IP Tracker which retrieves location and network info for a public ip address.
 
+It is intened for educational purposes, cybersecurity learning and OSINT practices.
 
-Is Someone sending you creepy messages at night ???? 
+Features
+ 
+-> Lookup public IP addresses
+-> View approximate geographic location
+-> Display country, region, city, and ISP details
+-> Lightweight and easy to deploy
+-> Beginner-friendly setup
 
-1.) Use this tool to find the culprit IP and near exact location
+Example Use Cases
 
+-> Learning how IP geolocation works
+-> Network troubleshooting
+-> Basic OSINT investigations
+-> Analyzing server or client IP information
+-> Educational cybersecurity projects
 
-This Tool Must Not Be Used For Wrong Purposes only Educational Purposes Only
+⚠️ Disclaimer
+
+This tool is provided for **educational and authorized security research purposes only**.Users are responsible for ensuring that they comply with all applicable laws and regulations.
