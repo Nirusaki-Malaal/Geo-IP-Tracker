@@ -5,6 +5,7 @@ const router = Router();
 router.get("/", (req, res) => {
     try 
     {
+    // CONSTANT
     const ip: string = req.ip ?? "UNKNOWN"; // null check
     const date: Date = new Date();
     const json = { status: ip };
